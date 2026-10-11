@@ -1,5 +1,7 @@
 # GISAU-eventpage (practice project)
 
+Live page: https://kennedyhuang88.github.io/GISAU-eventpage/
+
 A mobile-friendly concept page for an existing "Indomie Eating Competition" event from GISAU, made as a practice project while I learn HTML and CSS.
 
 This is not an official GISAU page. The event details are made up, and the design is only inspired by GISAU's website.
